@@ -1,6 +1,8 @@
 # Nivernote
 Este código é escrito em Python e utiliza a biblioteca gráfica CustomTkinter (customtkinter) para criar uma interface para o aplicativo Evernote, o qual é destinado a armazenar e notificar aniversários.
 
+![Descrição da Imagem](https://github.com/mclarasgalindo/Nivernote/blob/main/642e8dee-9523-4cd2-a4cf-5a86046e32ca.png)
+
 # Estrutura;
 ## Bibliotecas usadas: 
 - `customtkinter, json, datetime, os, plyer.notification`
